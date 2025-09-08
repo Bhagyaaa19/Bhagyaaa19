@@ -1,8 +1,8 @@
-# 🌱 Hi, I'm Bhagya Wijeratne  
+# Hi, I'm Bhagya Wijeratne  
 
 🎓 **BSc (Hons) in Bioinformatics** — *First Class Honours* | *Gold Medalist*  
 📍 **Prospective phD student**
-🔬 Passionate about **Systems Biology, Bioinformatics & Plant Molecular Biology**  
+🔬 Passionate about **Systems Biology, Bioinformatics & Molecular Biology**  
 🏑 Athlete | 💻 Researcher | 📖 Aspiring Writer  
 
 ---
