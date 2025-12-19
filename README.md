@@ -5,7 +5,7 @@
 Passionate about **Systems Biology, Bioinformatics & Molecular Biology**  
 Athlete | Researcher | Aspiring Writer  
 
----
+----
 
 ## About Me  
 - Conducted undergraduate research:  
